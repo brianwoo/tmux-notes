@@ -95,7 +95,7 @@ or
 <kbd>Ctrl</kbd> + <kbd>b</kbd>  <kbd>s</kbd>
 
 
-## Awesome preset configurations
+## Awesome preset configurations (~/.tmux.conf)
 ```bash
 # Prefix + r to load conf file
 bind r source ~/.tmux.conf \; display "~/.tmux.conf loaded!"
